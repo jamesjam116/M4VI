@@ -32,7 +32,8 @@ As a creative & passionate developer and fast learner with detail and high quali
 <br />
 
 ⚡ These are languages and frameworks I mostly use:
- 
+
+- Move (Aptos & Sui)
 - Solidity(ERC-20, 721, 721A, 1155) to write various contracts
 - React.js
 - Bootstrap
